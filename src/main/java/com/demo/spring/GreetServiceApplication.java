@@ -18,7 +18,7 @@ public class GreetServiceApplication {
 	
 	@GetMapping("/greet")
 	public String greet() {
-		return "If you see me, you have done it right!!";
+		return "If you see me, you have done it good!!";
 	}
 
 }
